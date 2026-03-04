@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fb809af-d503-4efa-b04e-03189c046e84" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Backend/Home/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backend/Login/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Backend/Register/route.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Home/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Login/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Register/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/35383/OneDrive/Desktop/College - TUD/Year 3/Semester 2 v/Major Group Project (Part 2)/TaskWeb/src/Backend/Register",
+    "last_opened_file_path": "C:/Users/35383/OneDrive/Desktop/College - TUD/Year 3/Semester 2 v/Major Group Project (Part 2)/TaskWeb",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -80,11 +79,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb" />
       <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Backend\Register" />
       <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Backend\Login" />
       <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Backend\Home" />
       <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Frontend\Home" />
-      <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Frontend\Register" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\35383\OneDrive\Desktop\College - TUD\Year 3\Semester 2 v\Major Group Project (Part 2)\TaskWeb\src\Frontend\Fix" />
