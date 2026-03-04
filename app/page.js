@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
 
-export default function loginRedirect() {
-    redirect("/Frontend/Login/");
+export default function Page() {
+    redirect("/login");
 }
