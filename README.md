@@ -1,7 +1,9 @@
 # TaskWeb
 
-David ~ Register Page
+Kevin:
+-> Home Page (Frontend & Backend)
+-> Register (Backend)
 
-Kevin ~ Home Page
-
-Ike ~ Login Page
+Ike:
+-> Login Page (Frontend & Backend)
+-> Register (Frontend)
