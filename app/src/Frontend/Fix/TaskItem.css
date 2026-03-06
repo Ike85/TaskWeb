@@ -1,9 +1,0 @@
-.task-item {
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin: 5px;
-}
-.task-item.completed {
-    background: #d4edda;
-}
-
